@@ -6,4 +6,4 @@ I'd love to connect with employers, mentors, and classmates.
 
 - **Email:** [mary.aarikpo@gmail.com](mailto:mary.aarikpo@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mary-arikpo](https://www.linkedin.com/in/mary-arikpo/)
-- **GitHub:** [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- **GitHub:** [github.com/github.com/maryarikpo](https://github.com/maryarikpo/maryarikpo)
