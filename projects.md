@@ -2,76 +2,80 @@
 
 # Projects
 
-## 1. Linux Deployment Proposal (IT 210: Linux Fundamentals)
-
-**Role:** System administrator for PromisedLand.com, a fictional company with five call centers.
-
-**Skills applied:** Setting up Ubuntu servers on AWS, managing users and permissions, storage, networking, SSH, scheduled tasks, and firewall security.
-
-**Challenges:** I was new to Linux, and learning the commands step by step was confusing at first. Joining study groups helped me understand it better. By Week 5, I had a good grasp of how Linux works, including using PowerShell to connect to the company's server and assigning the right user and group permissions. I ran into errors along the way, but I worked through them.
-
-**Outcome:** I completed a full deployment proposal for the PromisedLand.com server with a video demonstration, and Linux became my favorite course.
-
-*Faith link:* Setting user permissions taught me that access is a trust. The more access I am given, the more careful I need to be.
+Each project below shows what I did, what was hard, how I worked through it, and what I learned, both professionally and spiritually.
 
 ---
 
-## 2. History of Technology Podcast (HIST 175)
+## 1. Linux Deployment Proposal
+**Course:** IT 210, Linux Fundamentals · **Role:** System administrator
 
-**Role:** Researcher, writer, and podcast host.
+### Context
+I played the system administrator for PromisedLand.com, a fictional company with five call centers. Over seven weeks, I planned and built an Ubuntu server on AWS and wrote a deployment proposal covering setup, users and groups, storage, maintenance, networking, SSH, scheduled tasks, and firewall security.
 
-**Skills applied:** Research, outlining, scriptwriting, peer review, and audio recording.
+### Challenges
+I was completely new to Linux. Learning commands step by step was confusing, and I ran into errors connecting to the server and setting the right permissions.
 
-**Challenges:** Since this was not the history of my own country, it was confusing at first. As I researched, I became fascinated by how many things we use today came to be. I learned that penicillin became one of the first antibiotics, and that before anesthesia, people had surgery fully awake. Turning all that research into a podcast was a great learning experience.
+### How I overcame them
+I joined study groups, where classmates helped me understand what each command was doing. I practiced in the AWS lab every week, and by Week 5, I could use PowerShell to connect to the server and assign the right user and group permissions on my own. When errors came up, I read them carefully and fixed them one at a time.
 
-**Outcome:** I produced a podcast on medical technology that connected my health background with technology.
+### Results
+I completed a full deployment proposal with a video demonstration of my working server, and Linux became my favorite course.
 
-*Faith link:* Learning "line upon line" (2 Nephi 28:30) helped me turn a confusing topic into something I understood and could teach.
-
----
-
-## 3. Database Coursework (IT 143)
-
-**Role:** Student working in SQL Server Management Studio (SSMS).
-
-**Skills applied:** Creating tables, joins, set operations, troubleshooting errors, and Excel PivotTables.
-
-**Challenges:** I was nervous about this course at first. There was a lot of code, I had to fix SSMS errors, and I struggled with knowing when to use each type of join. With practice, it started to make sense.
-
-**Outcome:** I can now query and organize data, a key skill for my goal in health data analysis.
-
-*Faith link:* Patience and faith carried me through errors I did not understand at first.
+### Lessons learned
+- **Professional:** Hard skills become clear with steady practice, and asking for help is a strength, not a weakness.
+- **Spiritual:** Setting permissions taught me that access is a trust. Luke 12:48 reminds me that "unto whomsoever much is given, of him shall be much required." The more access I have to a system, the more careful and honest I need to be.
 
 ---
 
-## 4. Canvas Start Guide (Technical Writing)
+## 2. SQL Database Coursework
+**Course:** IT 143, Introduction to Databases · **Role:** Student developer in SQL Server Management Studio (SSMS)
 
-**Role:** Technical writer.
+### Context
+I learned to create tables and write SQL queries using joins and set operations (UNION, INTERSECT, EXCEPT). I also built PivotTables, PivotCharts, and slicers in Excel and practiced interview-style SQL problems.
 
-**Skills applied:** Technical writing, step-by-step instructions, and writing for beginners.
+### Challenges
+I was nervous about this course. There was a lot of code, SSMS often gave me errors, and I struggled to know which type of join to use and when.
 
-**Challenges:** Writing clear steps for students who were seeing the Canvas Student dashboard for the first time.
+### How I overcame them
+I broke each query into small parts and tested them one piece at a time. I drew Venn diagrams to picture how each join combines data, and I kept practicing until the patterns made sense.
 
-**Outcome:** I created a guide to help new students navigate Canvas, and the project greatly improved how I organize ideas and present them clearly.
+### Results
+I can now query, combine, and organize data with confidence, which is a core skill for health data analysis.
 
-*Faith link:* Writing for someone who feels lost is a small way to serve, like helping "one of the least of these" (Matthew 25:40).
-
----
-
-## 5. Student Support at Springboard (Mentor and Advisor, 2022 to 2026)
-
-**Role:** Supported students remotely during US business hours.
-
-**Skills applied:** Communication, problem solving, Zendesk, HubSpot, Slack, Zoom, and Google Workspace.
-
-**Challenges:** Helping students who were stressed or falling behind and needed both guidance and encouragement.
-
-**Outcome:** Students stayed on track, completed their programs, and met their academic goals, which brought me real joy.
-
-*Faith link:* "I grow when I help someone else grow." Serving students taught me to listen first and help with patience.
+### Lessons learned
+- **Professional:** Big problems become manageable when I break them into small, testable steps.
+- **Spiritual:** 2 Nephi 28:30 teaches that the Lord gives "line upon line, precept upon precept." I learned SQL the same way, and it gave me more patience with myself when learning feels slow.
 
 ---
 
-## Coming soon
+## 3. Canvas Start Guide
+**Course:** Technical Writing · **Role:** Technical writer
 
-- **IT 497 Capstone Project** (health data focus), to be added by Week 6
+### Context
+I wrote a step-by-step guide to help new students navigate the Canvas Student dashboard for the first time.
+
+### Challenges
+Writing for someone who has never seen a system before is harder than it sounds. I had to remember what it feels like to be new and avoid assuming the reader already knew anything.
+
+### How I overcame them
+I drew on my years at Springboard, where I explained processes to stressed students every day. I kept each step short, used plain language, and put the steps in the exact order a new student would follow.
+
+### Results
+I produced a clear, beginner-friendly guide, and the project greatly improved how I organize ideas and explain technical tasks.
+
+### Lessons learned
+- **Professional:** Good technical writing is about the reader, not the writer. Clear instructions save people time and stress.
+- **Spiritual:** Matthew 25:40 reminds me to care for "the least of these." Helping someone who feels lost, even with a simple guide, is a small way to serve like the Savior.
+
+---
+
+## More projects
+
+### History of Technology Podcast (HIST 175)
+I researched, wrote, and hosted a podcast on medical technology, learning how discoveries like penicillin and anesthesia changed healthcare. It connected my health background with technology and strengthened my research and communication skills.
+
+### Student Support at Springboard (Mentor and Advisor, 2022 to 2026)
+I supported 80+ students per term remotely, helping those who were stressed or behind stay on track and reach their academic goals. I learned that listening first and responding with patience matters as much as the solution itself.
+
+### Coming soon: IT 497 Capstone Project
+A project connecting IT and health data, to be added by Week 6.
