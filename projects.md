@@ -21,6 +21,24 @@ I joined study groups, where classmates helped me understand what each command w
 ### Results
 I completed a full deployment proposal with a video demonstration of my working server, and Linux became my favorite course.
 
+### Refined version (IT 497, November 2026)
+After this course's ethics discussions, I reviewed my design again and made eight refinements. I asked three questions of every part: **What could go wrong? Who would be hurt? What is the simplest fix?**
+
+| Area | Original | Refined | Why it matters ethically |
+|---|---|---|---|
+| Backups | 1 GB volume for 10 GB of data | 20 GB, root-only, monthly restore tests | Backups hold the same private data |
+| Remote access | SSH keys only | SSH keys + MFA for admins | The safeguard missing at Change Healthcare |
+| Data at rest | Not encrypted | EBS encryption with AWS KMS | Client and employee privacy |
+| Reboots | Every two years | Monthly window, announced ahead | Security fixes are not delayed |
+| Accounts | Expiry for temporary staff only | Same-day offboarding, quarterly reviews | No one keeps access they no longer need |
+| Auditing | Admin actions logged | auditd on finance/CRM folders, fail2ban | Accountability, even for oversight access |
+| Firewall | File-sharing port not named | Port 445 open only to the office network | Smallest possible exposure |
+| Privacy policy | None | Retention rules and breach response plan | Honesty with clients and staff |
+
+The biggest finding was a real error I missed the first time: the backup volume could never hold the data it was meant to protect.
+
+📄 **[Read the full refined proposal (PDF)](linux-proposal-refined.pdf)**
+
 ### Lessons learned
 - **Professional:** Hard skills become clear with steady practice, and asking for help is a strength, not a weakness.
 - **Spiritual:** Setting permissions taught me that access is a trust. Luke 12:48 reminds me that "unto whomsoever much is given, of him shall be much required." The more access I have to a system, the more careful and honest I need to be.
